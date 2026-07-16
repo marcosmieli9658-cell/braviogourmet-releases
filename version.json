@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.1",
+  "versao": "2.4.2",
   "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/latest",
-  "notas": "Versão atual do Bravio Gourmet."
+  "notas": "Layout responsivo: o app agora se adapta a qualquer tela (abre maximizado) e o conteúdo não fica mais cortado. Telas revisadas: Vendas, Cozinha, Rodízio, Produtos, Clientes, Mesas e mais."
 }
