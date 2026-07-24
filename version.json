@@ -1,5 +1,5 @@
 {
   "versao": "2.4.3",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/latest",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.3/Bravio-Setup-2.4.3.exe",
   "notas": "Venda por peso (kg) para padaria/buffet — o PDV pede o peso e cobra pelo quilo. Mais segurança reforçada (token 128 bits, CORS trancado e validações)."
 }
