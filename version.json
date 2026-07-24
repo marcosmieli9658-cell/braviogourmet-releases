@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.2",
+  "versao": "2.4.3",
   "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/latest",
-  "notas": "Layout responsivo: o app agora se adapta a qualquer tela (abre maximizado) e o conteúdo não fica mais cortado. Telas revisadas: Vendas, Cozinha, Rodízio, Produtos, Clientes, Mesas e mais."
+  "notas": "Venda por peso (kg) para padaria/buffet — o PDV pede o peso e cobra pelo quilo. Mais segurança reforçada (token 128 bits, CORS trancado e validações)."
 }
