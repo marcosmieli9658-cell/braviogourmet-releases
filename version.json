@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.5",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.5/Bravio-Setup-2.4.5.exe",
-  "notas": "Agora a atualização baixa dentro do próprio app, com barra de progresso, e abre o instalador no fim (sem navegador). Inclui os ajustes de produto (Disponível ativa o produto, Excluir produto, botão Editar visível) e o botão Verificar atualizações."
+  "versao": "2.4.6",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.6/Bravio-Setup-2.4.6.exe",
+  "notas": "Atualização com ajuste interno de licenciamento. Inclui venda por kg, correções de produto (Disponível/Excluir/Editar) e o download da atualização dentro do app com barra de progresso."
 }
