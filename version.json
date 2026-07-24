@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.3",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.3/Bravio-Setup-2.4.3.exe",
-  "notas": "Venda por peso (kg) para padaria/buffet — o PDV pede o peso e cobra pelo quilo. Mais segurança reforçada (token 128 bits, CORS trancado e validações)."
+  "versao": "2.4.4",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.4/Bravio-Setup-2.4.4.exe",
+  "notas": "Correções da instalação: 'Disponível' agora funciona (ativa o produto), botão Excluir produto, botão Editar visível (removida a caixa que tampava) e um botão 'Verificar atualizações' nas Configurações."
 }
