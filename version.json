@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.8",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.8/Bravio-Setup-2.4.8.exe",
-  "notas": "Detalhes de produto e cliente agora abrem em pop-up amplo (tudo legível, botões visíveis) e a lateral virou o Agente Bravio com espaço."
+  "versao": "2.4.9",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.9/Bravio-Setup-2.4.9.exe",
+  "notas": "Os detalhes de produto e cliente agora abrem com duplo-clique na linha (clique simples só seleciona)."
 }
