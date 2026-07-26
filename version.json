@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.6",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.6/Bravio-Setup-2.4.6.exe",
-  "notas": "Atualização com ajuste interno de licenciamento. Inclui venda por kg, correções de produto (Disponível/Excluir/Editar) e o download da atualização dentro do app com barra de progresso."
+  "versao": "2.4.7",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.7/Bravio-Setup-2.4.7.exe",
+  "notas": "Histórico de compra por cliente: veja os produtos habituais de cada cliente, use o botão 'Compra de sempre' no PDV e o relatório de clientes recorrentes. (Lembre de selecionar o cliente na venda para o histórico registrar.)"
 }
