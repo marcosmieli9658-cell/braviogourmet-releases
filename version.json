@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.11",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.11/Bravio-Setup-2.4.11.exe",
-  "notas": "Tela de Estoque: os botões do topo aparecem inteiros agora (sem corte). Inclui o histórico de compra por cliente e os detalhes em pop-up."
+  "versao": "2.4.12",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.12/Bravio-Setup-2.4.12.exe",
+  "notas": "Botões do topo de todas as telas agora aparecem inteiros (numa linha própria, sem corte). Cards de resumo com valor completo, nomes nas listas sem corte, e avatar do cliente sem duplicar."
 }
