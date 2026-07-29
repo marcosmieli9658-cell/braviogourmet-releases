@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.13",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.13/Bravio-Setup-2.4.13.exe",
-  "notas": "Correções de tela: agora dá para salvar o pedido no Delivery (janela rola, botões fixos). Nomes de funcionários e valores dos cards não cortam mais, e textos claros ficaram legíveis."
+  "versao": "2.4.14",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.14/Bravio-Setup-2.4.14.exe",
+  "notas": "Gráfico de faturamento legível em 15/30/90 dias, painel lateral do Financeiro sem cortar textos, e botões de contato do Delivery visíveis."
 }
