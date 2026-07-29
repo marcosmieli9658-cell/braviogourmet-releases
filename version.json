@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.15",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.15/Bravio-Setup-2.4.15.exe",
-  "notas": "Ajuste no medidor da Despensa + todas as correções de tela recentes (delivery com botões visíveis, financeiro sem cortar textos, gráfico legível em 15/30/90 dias)."
+  "versao": "2.4.16",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.16/Bravio-Setup-2.4.16.exe",
+  "notas": "Revisão de tela: medidores de saúde completos (sem corte), Agente Bravio verde no Financeiro, Delivery com botões visíveis e sem fundo cinza, Fiscal sem cortar textos e Despensa com todas as colunas visíveis."
 }
