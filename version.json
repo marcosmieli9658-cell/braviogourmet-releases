@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.17",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.17/Bravio-Setup-2.4.17.exe",
-  "notas": "Layout responsivo: o sistema agora se adapta sozinho ao tamanho da tela (notebook ou monitor) — cards e tabelas cabem, sem amontoar/cortar. PDV com grade de produtos adaptativa. Impressora: aviso quando você escolhe uma impressora virtual (XPS/PDF) que não imprime cupom, e logo do cupom mais nítida. Atualização mais resistente a quedas de rede."
+  "versao": "2.4.18",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.18/Bravio-Setup-2.4.18.exe",
+  "notas": "Cards laterais (Centro/Agente) voltam a aparecer sempre, com mais espaço para os botões. Delivery: botões do pedido agora dizem 'Ligar' e 'WhatsApp' (antes eram círculos sem ícone) e o 'Atenções do dia' ficou sem o fundo cinza atrás do texto."
 }
