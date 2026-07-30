@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.18",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.18/Bravio-Setup-2.4.18.exe",
-  "notas": "Cards laterais (Centro/Agente) voltam a aparecer sempre, com mais espaço para os botões. Delivery: botões do pedido agora dizem 'Ligar' e 'WhatsApp' (antes eram círculos sem ícone) e o 'Atenções do dia' ficou sem o fundo cinza atrás do texto."
+  "versao": "2.4.19",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.19/Bravio-Setup-2.4.19.exe",
+  "notas": "Adaptação automática de tela: ao abrir, o Bravio detecta o monitor e ajusta a interface inteira para caber — em qualquer notebook ou monitor, sem configurar nada. Em telas pequenas tudo encolhe na proporção certa (tabelas e cards laterais cabem juntos); em monitores grandes nada muda."
 }
