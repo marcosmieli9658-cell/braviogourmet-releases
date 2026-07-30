@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.21",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.21/Bravio-Setup-2.4.21.exe",
-  "notas": "Correções para telas de notebook: os cards 'Centro' (Despensa/Estoque/Compras) não ficam mais com texto por cima do medidor (agora o anel fica em cima e os números embaixo, com rolagem quando falta altura) e os títulos das colunas não são mais cortados (cada coluna mede o próprio texto). Inclui também as melhorias da 2.4.20: correção dos textos borrados e Diagnóstico do sistema."
+  "versao": "2.4.22",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.22/Bravio-Setup-2.4.22.exe",
+  "notas": "Correções da auditoria pré-produção: troco agora é abatido do caixa (fechamento bate com a gaveta), cupom só imprime após a venda fechar, delivery vende por peso (kg), cancelar delivery devolve os insumos à Despensa, produto 'Indisponível' some do PDV, caixa fechado bloqueia recebimentos, e delivery respeita a licença. Segurança: atualizador só aceita download de origem confiável e exportação CSV protegida contra fórmulas."
 }
