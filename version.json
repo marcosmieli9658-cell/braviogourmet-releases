@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.19",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.19/Bravio-Setup-2.4.19.exe",
-  "notas": "Adaptação automática de tela: ao abrir, o Bravio detecta o monitor e ajusta a interface inteira para caber — em qualquer notebook ou monitor, sem configurar nada. Em telas pequenas tudo encolhe na proporção certa (tabelas e cards laterais cabem juntos); em monitores grandes nada muda."
+  "versao": "2.4.20",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.20/Bravio-Setup-2.4.20.exe",
+  "notas": "CORREÇÃO IMPORTANTE: em alguns computadores a 2.4.19 deixava os textos borrados/ilegíveis — resolvido (o ajuste automático de escala foi removido; a adaptação de tela agora é só pelo layout). Novo: Diagnóstico do sistema em Configurações (gera relatório da máquina para o suporte) e atualização in-app com registro do motivo quando falha."
 }
