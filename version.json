@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.20",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.20/Bravio-Setup-2.4.20.exe",
-  "notas": "CORREÇÃO IMPORTANTE: em alguns computadores a 2.4.19 deixava os textos borrados/ilegíveis — resolvido (o ajuste automático de escala foi removido; a adaptação de tela agora é só pelo layout). Novo: Diagnóstico do sistema em Configurações (gera relatório da máquina para o suporte) e atualização in-app com registro do motivo quando falha."
+  "versao": "2.4.21",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.21/Bravio-Setup-2.4.21.exe",
+  "notas": "Correções para telas de notebook: os cards 'Centro' (Despensa/Estoque/Compras) não ficam mais com texto por cima do medidor (agora o anel fica em cima e os números embaixo, com rolagem quando falta altura) e os títulos das colunas não são mais cortados (cada coluna mede o próprio texto). Inclui também as melhorias da 2.4.20: correção dos textos borrados e Diagnóstico do sistema."
 }
