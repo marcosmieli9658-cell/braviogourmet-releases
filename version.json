@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.23",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.23/Bravio-Setup-2.4.23.exe",
-  "notas": "Atualização pelo próprio app corrigida (erro de certificado SSL no download interno). Agente Bravio legível nas telas Despensa, Estoque e Compras (fundo verde-escuro). Botões como 'Importar clientes', 'Gerenciar grupos' e 'Perfis de acesso' não são mais cortados em telas de notebook. Detalhe do funcionário com painel mais largo e rolagem mais visível."
+  "versao": "2.4.24",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.24/Bravio-Setup-2.4.24.exe",
+  "notas": "Correção definitiva dos cortes em telas de notebook: botões de Clientes, Produtos e Funcionários nunca mais são amputados (cada um reserva o espaço do próprio texto), a janela não estoura mais a tela (rolagem horizontal quando falta espaço), filtros encolhem com elegância e textos auxiliares quebram linha. Atualizando a partir da 2.4.23, o download já deve concluir dentro do próprio app."
 }
