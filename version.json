@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.22",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.22/Bravio-Setup-2.4.22.exe",
-  "notas": "Correções da auditoria pré-produção: troco agora é abatido do caixa (fechamento bate com a gaveta), cupom só imprime após a venda fechar, delivery vende por peso (kg), cancelar delivery devolve os insumos à Despensa, produto 'Indisponível' some do PDV, caixa fechado bloqueia recebimentos, e delivery respeita a licença. Segurança: atualizador só aceita download de origem confiável e exportação CSV protegida contra fórmulas."
+  "versao": "2.4.23",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.23/Bravio-Setup-2.4.23.exe",
+  "notas": "Atualização pelo próprio app corrigida (erro de certificado SSL no download interno). Agente Bravio legível nas telas Despensa, Estoque e Compras (fundo verde-escuro). Botões como 'Importar clientes', 'Gerenciar grupos' e 'Perfis de acesso' não são mais cortados em telas de notebook. Detalhe do funcionário com painel mais largo e rolagem mais visível."
 }
