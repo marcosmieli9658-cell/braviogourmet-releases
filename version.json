@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.25",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.25/Bravio-Setup-2.4.25.exe",
-  "notas": "Permissões de módulo agora valem de verdade: funcionário sem acesso à Gestão não vê mais Produtos, Despensa, Estoque, Compras nem Configurações — o que o dono configura na tela de Funcionários é o que o operador enxerga (dono e administradores continuam vendo tudo). Aviso claro ao criar ficha técnica sem produto cadastrado."
+  "versao": "2.4.26",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.26/Bravio-Setup-2.4.26.exe",
+  "notas": "Estoque mínimo deixa de travar a venda: insumo abaixo do mínimo (ou até zerado) não bloqueia mais o produto no PDV — vira alerta de compra e um selo 'Insumo em falta' no cartão. A única forma de tirar um produto da venda é a gestão marcar 'Indisponível'. Inclui também as permissões de módulo da 2.4.25 (funcionário de operação não vê telas de gestão)."
 }
