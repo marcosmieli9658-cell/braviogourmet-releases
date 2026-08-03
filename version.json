@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.30",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.30/Bravio-Setup-2.4.30.exe",
-  "notas": "Delivery redondo: botões do pedido visíveis de novo (estavam brancos sobre branco), cliente cadastrado preenche o pedido sozinho (telefone, endereço, bairro e taxa), e nova via do entregador impressa ao sair para entrega — com endereço completo, itens, taxa de entrega, total, forma de pagamento e observação de troco."
+  "versao": "2.4.31",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.31/Bravio-Setup-2.4.31.exe",
+  "notas": "Botão Imprimir nas pré-visualizações de cupom: a via do entregador e a comanda da cozinha agora podem ser enviadas direto para a impressora configurada (Configurações → Integrações → Impressora), com confirmação na tela. O diálogo mostra qual impressora vai receber o cupom e orienta onde configurar quando não há nenhuma."
 }
