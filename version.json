@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.28",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.28/Bravio-Setup-2.4.28.exe",
-  "notas": "Correção crítica: a venda não trava mais por dados demo 'fantasma' (o app re-semeava rodízio/NFC-e de demonstração em base de cliente; agora nunca mais, e bases contaminadas são limpas sozinhas na abertura). Delivery ganhou cadastro de Bairros e taxas: escolha o bairro no pedido e a taxa de entrega entra automaticamente no total. 'Novo pedido' bloqueado agora explica o motivo com aviso claro."
+  "versao": "2.4.29",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.29/Bravio-Setup-2.4.29.exe",
+  "notas": "Correção da limpeza automática da 2.4.28: ela rodava num ponto da abertura em que o app ainda não sabia que a base era de cliente e acabava se pulando. Agora executa de verdade — na primeira abertura desta versão, a venda e o delivery destravam sozinhos em bases afetadas pelos dados demo residuais (rodízio/NFC-e)."
 }
