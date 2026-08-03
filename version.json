@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.27",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.27/Bravio-Setup-2.4.27.exe",
-  "notas": "Busca de cliente na venda: digite parte do nome no campo Cliente do PDV e apareçam só os que casam — sem rolar a lista inteira. E venda travada agora explica o motivo: aviso claro listando as pendências (ex.: usuário com senha fraca) e onde resolver, em vez de um aviso discreto que parecia botão sem resposta."
+  "versao": "2.4.28",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.28/Bravio-Setup-2.4.28.exe",
+  "notas": "Correção crítica: a venda não trava mais por dados demo 'fantasma' (o app re-semeava rodízio/NFC-e de demonstração em base de cliente; agora nunca mais, e bases contaminadas são limpas sozinhas na abertura). Delivery ganhou cadastro de Bairros e taxas: escolha o bairro no pedido e a taxa de entrega entra automaticamente no total. 'Novo pedido' bloqueado agora explica o motivo com aviso claro."
 }
