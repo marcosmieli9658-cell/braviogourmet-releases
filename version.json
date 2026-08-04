@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.34",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.34/Bravio-Setup-2.4.34.exe",
-  "notas": "Novo: Comanda Web — o garçom lança pedidos pelo NAVEGADOR do próprio celular (mesma Wi-Fi, sem instalar nada) e a comanda sai na impressora da cozinha automaticamente. Endereço em Configurações → Integrações → Maquininha e Comanda Web. Produtos por peso pedem os kg; itens enviados ficam protegidos; pagamento continua no balcão. Funciona sem internet (rede local)."
+  "versao": "2.4.35",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.35/Bravio-Setup-2.4.35.exe",
+  "notas": "Correção importante: a Comanda Web e a maquininha não conectavam porque o servidor local falhava ao iniciar no aplicativo instalado — corrigido. O instalador agora também libera o acesso no Firewall do Windows automaticamente, e há um novo botão \"Testar servidor\" em Configurações → Integrações que diagnostica a conexão na hora. Recomendada para todos que usam Comanda Web ou maquininha."
 }
