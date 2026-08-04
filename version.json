@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.33",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.33/Bravio-Setup-2.4.33.exe",
-  "notas": "Auditoria de design aplicada: coluna do Agente sempre visível no Dashboard, cards da Cozinha sem cortes, botão 'Enviar para Cozinha' em destaque laranja, texto operacional maior (piso de 9pt), papéis de botão consistentes, KPIs compactos em telas baixas e blindagem interna contra textos/botões invisíveis (106 pontos corrigidos)."
+  "versao": "2.4.34",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.34/Bravio-Setup-2.4.34.exe",
+  "notas": "Novo: Comanda Web — o garçom lança pedidos pelo NAVEGADOR do próprio celular (mesma Wi-Fi, sem instalar nada) e a comanda sai na impressora da cozinha automaticamente. Endereço em Configurações → Integrações → Maquininha e Comanda Web. Produtos por peso pedem os kg; itens enviados ficam protegidos; pagamento continua no balcão. Funciona sem internet (rede local)."
 }
