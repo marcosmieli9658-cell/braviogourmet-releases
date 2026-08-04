@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.35",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.35/Bravio-Setup-2.4.35.exe",
-  "notas": "Correção importante: a Comanda Web e a maquininha não conectavam porque o servidor local falhava ao iniciar no aplicativo instalado — corrigido. O instalador agora também libera o acesso no Firewall do Windows automaticamente, e há um novo botão \"Testar servidor\" em Configurações → Integrações que diagnostica a conexão na hora. Recomendada para todos que usam Comanda Web ou maquininha."
+  "versao": "2.4.36",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.36/Bravio-Setup-2.4.36.exe",
+  "notas": "O topo agora mostra o nome REAL do seu restaurante (Configurações → Restaurante → Nome fantasia). Limpeza automática e definitiva dos dados de exemplo em ambientes de clientes zerados com versões antigas (rodízio fantasma, preços de exemplo, promoções e contas fictícias) — sem tocar em nada cadastrado por você. E abrir o Bravio duas vezes agora avisa e mantém uma janela só (duas janelas atrapalhavam a Comanda Web)."
 }
