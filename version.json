@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.36",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.36/Bravio-Setup-2.4.36.exe",
-  "notas": "O topo agora mostra o nome REAL do seu restaurante (Configurações → Restaurante → Nome fantasia). Limpeza automática e definitiva dos dados de exemplo em ambientes de clientes zerados com versões antigas (rodízio fantasma, preços de exemplo, promoções e contas fictícias) — sem tocar em nada cadastrado por você. E abrir o Bravio duas vezes agora avisa e mantém uma janela só (duas janelas atrapalhavam a Comanda Web)."
+  "versao": "2.4.37",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.37/Bravio-Setup-2.4.37.exe",
+  "notas": "Comanda Web muito mais fácil: novo QR code (menu Integrações) — o garçom aponta a câmera do celular e já entra conectado, sem digitar endereço nem senha. O menu Integrações da barra lateral agora concentra tudo: QR, status do servidor ao vivo, teste de conexão, dados da maquininha e botões de copiar. Corrigido também o botão Entrar da página que não respondia quando a senha estava errada."
 }
