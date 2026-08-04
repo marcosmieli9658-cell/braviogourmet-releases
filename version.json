@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.31",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.31/Bravio-Setup-2.4.31.exe",
-  "notas": "Botão Imprimir nas pré-visualizações de cupom: a via do entregador e a comanda da cozinha agora podem ser enviadas direto para a impressora configurada (Configurações → Integrações → Impressora), com confirmação na tela. O diálogo mostra qual impressora vai receber o cupom e orienta onde configurar quando não há nenhuma."
+  "versao": "2.4.32",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.32/Bravio-Setup-2.4.32.exe",
+  "notas": "Ficha técnica legível: a coluna do ingrediente não encolhe mais (nomes saíam cortados), os campos de quantidade/perda ficaram compactos e a janela abre maior — dá para ver os ingredientes adicionados e os custos sem esforço."
 }
