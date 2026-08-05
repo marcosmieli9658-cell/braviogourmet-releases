@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.37",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.37/Bravio-Setup-2.4.37.exe",
-  "notas": "Comanda Web muito mais fácil: novo QR code (menu Integrações) — o garçom aponta a câmera do celular e já entra conectado, sem digitar endereço nem senha. O menu Integrações da barra lateral agora concentra tudo: QR, status do servidor ao vivo, teste de conexão, dados da maquininha e botões de copiar. Corrigido também o botão Entrar da página que não respondia quando a senha estava errada."
+  "versao": "2.4.38",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.38/Bravio-Setup-2.4.38.exe",
+  "notas": "Novo: Portal do Dono — acompanhe sua loja pelo celular de QUALQUER lugar (faturamento do dia, vendas, ticket médio, mesas abertas, delivery, caixa e alertas de estoque, atualizado a cada 5 minutos). Configure em Integrações → Portal do Dono colando o token da sua licença. E nos insumos agora existe a unidade \"m\" (metro) para cadastrar fita, laço, durex e afins com custo por metro na ficha técnica."
 }
