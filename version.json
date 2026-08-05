@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.38",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.38/Bravio-Setup-2.4.38.exe",
-  "notas": "Novo: Portal do Dono — acompanhe sua loja pelo celular de QUALQUER lugar (faturamento do dia, vendas, ticket médio, mesas abertas, delivery, caixa e alertas de estoque, atualizado a cada 5 minutos). Configure em Integrações → Portal do Dono colando o token da sua licença. E nos insumos agora existe a unidade \"m\" (metro) para cadastrar fita, laço, durex e afins com custo por metro na ficha técnica."
+  "versao": "2.4.39",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.39/Bravio-Setup-2.4.39.exe",
+  "notas": "Comanda Web muito mais completa: agora o celular também FECHA A CONTA da mesa (com troco e registro no caixa) e tem a aba DELIVERY — recebeu o pedido no WhatsApp, lança pelo celular, a cozinha imprime e a via do motoqueiro sai na impressora do balcão ao marcar \"Saiu p/ entrega\". Busca de cliente cadastrado preenche endereço e taxa do bairro sozinha. E a ficha técnica ganhou área de ingredientes grande, com o botão de remover sempre visível."
 }
