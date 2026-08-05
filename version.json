@@ -1,5 +1,5 @@
 {
-  "versao": "2.4.39",
-  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.39/Bravio-Setup-2.4.39.exe",
-  "notas": "Comanda Web muito mais completa: agora o celular também FECHA A CONTA da mesa (com troco e registro no caixa) e tem a aba DELIVERY — recebeu o pedido no WhatsApp, lança pelo celular, a cozinha imprime e a via do motoqueiro sai na impressora do balcão ao marcar \"Saiu p/ entrega\". Busca de cliente cadastrado preenche endereço e taxa do bairro sozinha. E a ficha técnica ganhou área de ingredientes grande, com o botão de remover sempre visível."
+  "versao": "2.4.40",
+  "url": "https://github.com/marcosmieli9658-cell/braviogourmet-releases/releases/download/v2.4.40/Bravio-Setup-2.4.40.exe",
+  "notas": "Ficha técnica: o botão de remover ingrediente agora é uma lixeirinha 🗑 visível em qualquer computador (antes podia aparecer como um quadrado vermelho vazio, sem dar para saber a função)."
 }
